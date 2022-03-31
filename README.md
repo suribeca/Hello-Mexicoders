@@ -13,8 +13,7 @@ D[Gente te ayuda con tu código]
 F[Mejoras como programador]
 G[Mejoras tu escritura]
 
-A --- B --- C
-C -- D -- F
+A --- B --- C -- D -- F
 G -- A
 ```
 
