@@ -19,14 +19,6 @@ F-->G-->A
 En esta guía te enseñaremos lo necesario para que puedas documentar tus primeros códigos.
 
 
-## Tabla de contenido
-* [¿Qué es documentar?](#¿que-es-documentar?)
-* [Guía para documentar](#guia-para-documentar)
-* * [Uso](#uso)
-* * [Por hacer](#por-hacer)
-* * [Créditos](#Créditos)
-* [Contacto](#contacto)
-
 ## ¿Qué es documentar?
 
 Todos alguna vez nos hemos preguntado **¿Por qué hice esto?**
@@ -34,13 +26,13 @@ Ya sea en un dibujo, un paso en una receta de cocina, unos viejos apuntes o un c
 
 ##Guía para documentar
 
-## Crea una cuenta en Github
+### Crea una cuenta en Github
 - Entra a [Github](https://github.com/) 
 - Da click en **Sign up**
 ![image](https://user-images.githubusercontent.com/86432413/160973419-0276b403-f46a-4ae0-acd6-aa73f4670e0d.png)
 - Crea una cuenta con tu correo, contraseña y elige un nombre de usuario. Este sera el nombre por el que te reconocerán.
 
-## Crea tu primer repositorio
+### Crea tu primer repositorio
 Una vez estemos dentro de Github:
 - Da click en donde dice **New**
 ![image](https://user-images.githubusercontent.com/86432413/160973859-3aa46418-95f1-40db-bad1-f549bbdce77a.png)
@@ -50,7 +42,7 @@ Una vez estemos dentro de Github:
 - Da click en **Create Repository**
 ![image](https://user-images.githubusercontent.com/86432413/160974331-68a1f789-0d7a-4794-abca-fcab51ba69d7.png)
 
-## Editar la documentación
+### Editar la documentación
 
 Una vez dentro del repositorio, verás que tienes un único archivo, README.md
 Para editarlo, da click en el lápiz.
