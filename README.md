@@ -13,8 +13,7 @@ D[Gente te ayuda con tu código]
 F[Mejoras como programador]
 G[Mejoras tu escritura]
 
-A --- B --- C -- D -- F
-G -- A
+A --- B --- C -- D -- F -- G -- A
 ```
 
 En esta guía te enseñaremos lo necesario para que puedas doc
